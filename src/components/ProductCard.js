@@ -1,4 +1,3 @@
-// components/ProductCard.js
 export default function ProductCard({ item }) {
   return (
     <div className="bg-black text-white p-4 rounded">
